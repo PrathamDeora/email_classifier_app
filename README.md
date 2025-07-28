@@ -49,9 +49,3 @@ email_classifier_app/
 - **Vectorizer:** TF-IDF
 - **Classes:** Ham, Spam, Phishing
 
-## 📜 License
-MIT
-
----
-
-Made with ❤️ for cybersecurity and ML enthusiasts!
